@@ -6,5 +6,5 @@ Pratchett/Baxter    The Long Earth        11/16/13
 Terry Pratchett     The Light Fantastic   11/20/13
 Terry Pratchett     Sourcery              11/29/13
 Terry Pratchett     Eric                  11/30/13
-Terry Pratchett     Interesting Times     11/30/13
+Terry Pratchett     Interesting Times     12/14/13
 ```
